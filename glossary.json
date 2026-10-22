@@ -17,8 +17,7 @@
     },
     "characters": {
       "Qi Xu": { "gender": "female", "aliases": ["Asuna", "Invincible Black Whirlwind"] },
-      "Magic Boy": { "gender": "male", "aliases": ["Retired Magical Boy", "Magical Boy"] },
-      
+      "Magic Boy": { "gender": "male", "aliases": ["Retired Magical Boy", "Magical Boy"] }
     },
     "terms": {
       "生命之境": { "preferred": "Realm of Life", "pinned": true, "aliases": ["Life Realm"] },
