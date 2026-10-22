@@ -17,6 +17,7 @@
     },
     "characters": {
       "Qi Xu": { "gender": "female", "aliases": ["Asuna", "Invincible Black Whirlwind"] },
+      "Su Xiaoxiao": {"gender":"male"},
       "Magic Boy": { "gender": "male", "aliases": ["Retired Magical Boy", "Magical Boy"] }
     },
     "terms": {
